@@ -8,7 +8,7 @@ function linearSearch(array, target) {
     return false;
 }
 
-// Genereer een gesorteerde array van 10.000 willekeurige nummers
+// Genereer een gesorteerde array van 10000 willekeurige nummers
 function generateSortedArray(size) {
     const array = [];
     for (let i = 0; i < size; i++) {
